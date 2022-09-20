@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="land_daily_img_frag" type="id" />
+    <item name="save_Button" type="id" />
+    <item name="save_Food" type="id" />
+    <item name="cal_ET" type="id" />
+    <item name="food_ET" type="id" />
+</resources>
